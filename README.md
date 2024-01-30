@@ -5,9 +5,9 @@ Their pet projects used monolithic, microservice, and serverless architecture. A
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=JiLaRiAtIoN&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=iLaRiAtIoN&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=JiLaRiAtIoN&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/iLaRiAtIoN/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLaRiAtIoN&layout=compact"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiLaRiAtIoN&layout=compact"/></a>
 </p>
 
 <p align='center'>
