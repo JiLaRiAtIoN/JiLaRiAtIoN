@@ -1,7 +1,4 @@
 # Hi, I'm Alexander 👋
-Beginner Java developer with no commercial experience. I have basic knowledge of backend development in Java.
-Their pet projects used monolithic, microservice, and serverless architecture. All my projects are open-source.
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=JiLaRiAtIoN&show_icons=true&count_private=true"><img
            height=150
@@ -19,13 +16,13 @@ Their pet projects used monolithic, microservice, and serverless architecture. A
 </p>
 
 ### Key points
-* Beginner Java Developer :D
+* Ambitious beginner Backend Java Developer! :D
 
 ## 🛠 Technical Stack
 *   Java
 *   MySQL, PostgreSQL Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Data Jpa
-*   GitHub
+*   Spring Framework, Spring Boot, Spring Data Jpa, Spring Security
+*   Maven, Docker, Gradle, Git, GitHub
 
 ### My projects
 
