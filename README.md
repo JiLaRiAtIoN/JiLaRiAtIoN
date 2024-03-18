@@ -1,19 +1,4 @@
 # Hi, I'm Alexander 👋
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=jilariation&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=jilariation&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/jilariation/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jilariation&layout=compact"/></a>
-</p>
-
-<p align='center'>
-   <a href="https://t.me/jilariation">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:aleksandrmarygin18@gmail.com'>aleksandrmarygin18@gmail.com</a>
-</p>
 
 ### Key points
 * Ambitious beginner Backend Java Developer! :D
