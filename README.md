@@ -1,7 +1,7 @@
 # Hi, I'm Alexander 👋
 
 ### Key points
-* Ambitious beginner Backend Java Developer! :D
+* Ambitious Backend Java Developer! :D
 
 ## 🛠 Technical Stack
 *   Java
